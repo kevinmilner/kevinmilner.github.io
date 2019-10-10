@@ -25,6 +25,24 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  kevin_milner
 
+author:
+  name   : "Kevin Milner"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Geophysicist, computer scientist, and musician living in Los Angeles, CA."
+  links:
+          #    - label: "Website"
+          #      icon: "fas fa-fw fa-link"
+          #      url: "https://"
+          #    - label: "Twitter"
+          #      icon: "fab fa-fw fa-twitter-square"
+          #      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kevinmilner"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kevin_milner"
+
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-minimal
