@@ -27,9 +27,11 @@ github_username:  kevin_milner
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.17.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
