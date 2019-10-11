@@ -1,6 +1,6 @@
 ---
 title: "Music"
-layout: categories
+layout: category
 taxonomy: music
 permalink: /music/
 author_profile: true
