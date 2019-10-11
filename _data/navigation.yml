@@ -1,8 +1,10 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Work"
+    url: /categories/#work
+  - title: "Music"
+    url: /categories/#music
   - title: "Tags"
     url: /tags/
   - title: "About"
