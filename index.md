@@ -1,6 +1,6 @@
 ---
 title: "About Kevin Milner"
-layout: home
+layout: posts
 author_profile: true
 ---
 
