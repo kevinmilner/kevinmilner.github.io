@@ -1,5 +1,7 @@
 ---
 title: "About Kevin Milner"
+layout: home
+author_profile: true
 ---
 
 Kevin Milner is a geophysicist, computer scientist, and musician living in Los Angeles, CA. He works for the [Southern California Earthquake Center](http://www.scec.org) at the University of Southern California, where he is also a PhD Candidate.
