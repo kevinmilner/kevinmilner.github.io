@@ -8,7 +8,7 @@ header:
   image: /assets/images/music_banner.jpg
 author:
   name   : "Kevin Milner"
-  avatar : "/assets/images/bio-musiic.jpg"
+  avatar : "/assets/images/bio-music.jpg"
   bio    : "Pedal and lap steel guitarist living in Los Angeles, CA."
   links:
     - label: "Instagram"
