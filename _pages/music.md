@@ -1,7 +1,7 @@
 ---
 title: "Music"
 layout: category
-taxonomy: music
-permalink: /categories/music/
+taxonomy: Music
+permalink: /music/
 author_profile: true
 ---
