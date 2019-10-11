@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Work"
     url: /work
   - title: "Music"
     url: /music
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
