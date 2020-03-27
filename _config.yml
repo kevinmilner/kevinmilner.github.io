@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: Kevin Milner
+title: Kevin Milner, PhD
 email: kevin at kevinmilner dot net
 description: >- # this means to ignore newlines until "baseurl:"
   Kevin Milner is a geophysicist, computer scientist, and musician living in Los Angeles, CA.
   He works for the Southern California Earthquake Center at the University of Southern California,
-  where he is also a PhD Candidate. His primary musical instruments are the pedal steel, and lap
+  where he earned his PhD in Geological Sciences. His primary musical instruments are the pedal steel, and lap
   steel guitars.
 github_username: kevinmilner
 minimal_mistakes_skin: air
@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kevin Milner"
+  name   : "Kevin Milner, PhD"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Geophysicist, computer scientist, and musician living in Los Angeles, CA."
   links:
