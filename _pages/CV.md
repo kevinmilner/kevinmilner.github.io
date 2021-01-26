@@ -10,7 +10,9 @@ excerpt: Kevin Milner's Curriculum Vitae. Kevin is a geophysicist and computer s
 **Kevin Ross Milner**
 
 Location: Los Angeles, California
+
 E-mail: `kevin` `<at>` `kevinmilner.net`
+
 *Last updated 25 January, 2021*
 
 ## Education
