@@ -10,8 +10,7 @@ tags:
   - Paper
 ---
 
-Our paper entitled "Toward Physics‐Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California" was just published in *
-Bulletin of the Seismological Society of America*. Give it [read here](https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120200216/593757/Toward-Physics-Based-Nonergodic-PSHA-A-Prototype), or see the abstract and selected figures below.
+Our paper entitled "Toward Physics‐Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California" was just published in *Bulletin of the Seismological Society of America*. Give it [read here](https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120200216/593757/Toward-Physics-Based-Nonergodic-PSHA-A-Prototype), or see the abstract and selected figures below.
 
 Kevin R. Milner, Bruce E. Shaw, Christine A. Goulet, Keith B. Richards‐Dinger, Scott Callaghan, Thomas H. Jordan, James H. Dieterich, Edward H. Field; Toward Physics‐Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California. *Bulletin of the Seismological Society of America* doi: https://doi.org/10.1785/0120200216
 
