@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 layout: single
 permalink: /cv/
 author_profile: true
@@ -7,14 +7,10 @@ show_excerpts: false
 excerpt: Kevin Milner's Curriculum Vitae. Kevin is a geophysicist and computer scientiest at the Southern California Earthquake center and University of Southern California. He has a PhD in Geological Sciences (Geophysics), and specializes in probabilistic seismic hazard analysis (PSHA), maintaining OpenSHA and developing the UCERF earthquake forecast models.
 ---
 
-# Curriculum Vitae
-
 **Kevin Ross Milner**
 
 Location: Los Angeles, California
-
 E-mail: `kevin` `<at>` `kevinmilner.net`
-
 *Last updated 25 January, 2021*
 
 ## Education
