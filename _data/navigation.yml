@@ -1,4 +1,6 @@
 main:
+  - title: "CV"
+    url: /cv
   - title: "Work"
     url: /work
   - title: "Music"
