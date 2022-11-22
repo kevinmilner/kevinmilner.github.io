@@ -32,7 +32,19 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 ## Publications
 
+**2022**
+
+Sarah E Minson, Elizabeth S Cochran, Jessie K Saunders, Sara K McBride, Stephen Wu, Annemarie S Baltay, __Kevin R Milner__, What to expect when you are expecting earthquake early warning, _Geophysical Journal International_, Volume 231, Issue 2, November 2022, Pages 1386–1403, https://doi.org/10.1093/gji/ggac246
+
+__Kevin R. Milner__, Bruce E. Shaw, Edward H. Field; Enumerating Plausible Multifault Ruptures in Complex Fault Systems with Physical Constraints. _Bulletin of the Seismological Society of America_ 2022;; 112 (4): 1806–1824. doi: https://doi.org/10.1785/0120210322
+
 **2021**
+
+Edward H. Field, __Kevin R. Milner__, Nicolas Luco; The Seismic Hazard Implications of Declustering and Poisson Assumptions Inferred from a Fully Time‐Dependent Model. _Bulletin of the Seismological Society of America_ 2021;; 112 (1): 527–537. doi: https://doi.org/10.1785/0120210027
+
+Edward H. Field, __Kevin R. Milner__, Morgan T. Page, William H. Savran, Nicholas van der Elst; Improvements to the Third Uniform California Earthquake Rupture Forecast ETAS Model (UCERF3‐ETAS). _The Seismic Record_ 2021;; 1 (2): 117–125. doi: https://doi.org/10.1785/0320210017
+
+Edward H. Field, __Kevin R. Milner__, Morgan T. Page; Generalizing the Inversion‐Based PSHA Source Model for an Interconnected Fault System. _Bulletin of the Seismological Society of America 2020_;; 111 (1): 371–390. doi: https://doi.org/10.1785/0120200219
 
 **Kevin R. Milner**, Bruce E. Shaw, Christine A. Goulet, Keith B. Richards‐Dinger, Scott Callaghan, Thomas H. Jordan, James H. Dieterich, Edward H. Field; Toward Physics‐Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California. *Bulletin of the Seismological Society of America*. doi: https://doi.org/10.1785/0120200216
 
