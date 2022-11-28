@@ -28,7 +28,7 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 | Years | Institution | Title |
 |---|---|---|
 | 2018-present | Southern California Earthquake Center, University of Southern California | Computer Scientist |
-| 2008-2018 | Southern California Earthquake Center, University of Southern California | Rsearch Programmer II |
+| 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
 ## Publications
 
