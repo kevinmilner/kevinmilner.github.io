@@ -27,11 +27,15 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 | Years | Institution | Title |
 |---|---|---|
-| 2022-present | Southern California Earthquake Center, University of Southern California | Computational Geophysicist |
+| 2023-present | Southern California Earthquake Center, University of Southern California | Computational Geophysicist |
 | 2018-2022 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
 ## Publications
+
+**2023**
+
+Xiaofeng Meng, Christine Goulet, __Kevin Milner__, Robert Graves, Scott Callaghan; Comparison of Nonergodic Ground‐Motion Components from CyberShake and NGA‐West2 Datasets in California. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120220049
 
 **2022**
 
