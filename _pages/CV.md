@@ -97,7 +97,8 @@ Field, E. H., **Milner, K. R.**, Hardebeck, J. L., Page, M. T., van der Elst, N.
 
 Edward H. Field, Glenn P. Biasi, Peter Bird, Timothy E. Dawson, Karen R. Felzer, David D. Jackson, Kaj M. Johnson, Thomas H. Jordan, Christopher Madden, Andrew J. Michael, **Kevin R. Milner**, Morgan T. Page, Tom Parsons, Peter M. Powers, Bruce E. Shaw, Wayne R. Thatcher, Ray J. Weldon, Yuehua Zeng; Long‐Term Time‐Dependent Probabilities for the Third Uniform California Earthquake Rupture Forecast (UCERF3). *Bulletin of the Seismological Society of America* ; 105 (2A): 511–543. doi: https://doi.org/10.1785/0120140093
 
-Page, M. T., Field, E. H., **Milner, K. R.**, & Powers, P. M. (2014). The UCERF3 grand inversion: Solving for the long‐term rate of ruptures in a fault system. *Bulletin of the Seismological Society of America*, 104(3), 1181-1204.
+Page, M. T., Field, E. H., **Milner, K. R.**, & Powers, P. M. (2014). The UCERF3 grand inversion: Solving for the long‐term rate of ruptures in a fault system. *Bulletin of the Seismological Society of America*, 104(3), 1181-1204. doi: 
+https://doi.org/10.1785/0120130180
 
 Edward H. Field, Ramon J. Arrowsmith, Glenn P. Biasi, Peter Bird, Timothy E. Dawson, Karen R. Felzer, David D. Jackson, Kaj M. Johnson, Thomas H. Jordan, Christopher Madden, Andrew J. Michael, **Kevin R. Milner**, Morgan T. Page, Tom Parsons, Peter M. Powers, Bruce E. Shaw, Wayne R. Thatcher, Ray J. Weldon, Yuehua Zeng; Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)—The Time‐Independent Model. B*ulletin of the Seismological Society of America* ; 104 (3): 1122–1180. doi: https://doi.org/10.1785/0120130164
 
