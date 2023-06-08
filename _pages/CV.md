@@ -85,11 +85,11 @@ Jordan, T. H., Callaghan, S., Graves, R. W., Wang, F., **Milner, K. R.**, Goulet
 
 **2017**
 
-Field, E., Porter, K., & **Milner, K.** (2017). A Prototype Operational Earthquake Loss Model for California Based on UCERF3-ETAS–A First Look at Valuation. *Earthquake spectra*, 33(4), 1279-1299.
+Field, E., Porter, K., & **Milner, K.** (2017). A Prototype Operational Earthquake Loss Model for California Based on UCERF3-ETAS–A First Look at Valuation. *Earthquake spectra*, 33(4), 1279-1299. doi: https://doi.org/10.1193/011817eqs017m
 
 Field, E. H., Jordan, T. H., Page, M. T., **Milner, K. R.**, Shaw, B. E., Dawson, T. E., ... & Weldon, R. J. (2017). A synoptic view of the third Uniform California Earthquake Rupture Forecast (UCERF3). *Seismological Research Letters*, 88(5), 1259-1267.
 
-Porter, K., Field, E., & **Milner, K.** (2017). Trimming a hazard logic tree with a new model-order-reduction technique. *Earthquake spectra*, 33(3), 857-874.
+Porter, K., Field, E., & **Milner, K.** (2017). Trimming a hazard logic tree with a new model-order-reduction technique. *Earthquake spectra*, 33(3), 857-874. doi: https://doi.org/10.1193/092616EQS158M
 
 Field, E. H., **Milner, K. R.**, Hardebeck, J. L., Page, M. T., van der Elst, N., Jordan, T. H., ... & Werner, M. J. (2017). A spatiotemporal clustering model for the third Uniform California Earthquake Rupture Forecast (UCERF3‐ETAS): Toward an operational earthquake forecast. *Bulletin of the Seismological Society of America*, 107(3), 1049-1081.
 
