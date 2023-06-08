@@ -73,7 +73,7 @@ Minson, S.E., Baltay, A.S., Cochran, E.S., Hanks, T.C., Page, M.T., McBride, S.K
 
 **2018**
 
-Shaw, B. E., **Milner, K. R.**, Field, E. H., Richards-Dinger, K., Gilchrist, J. J., Dieterich, J. H., & Jordan, T. H. (2018). A physics-based earthquake simulator replicates seismic hazard statistics across California. *Science advances*, 4(8), eaau0688.
+Shaw, B. E., **Milner, K. R.**, Field, E. H., Richards-Dinger, K., Gilchrist, J. J., Dieterich, J. H., & Jordan, T. H. (2018). A physics-based earthquake simulator replicates seismic hazard statistics across California. *Science advances*, 4(8), eaau0688. doi: https://doi.org/10.1126/sciadv.aau0688
 
 Field, E. H., & **Milner, K. R. (2018)**. Candidate products for operational earthquake forecasting illustrated using the HayWired planning scenario, including one very quick (and not‐so‐dirty) hazard‐map option. *Seismological Research Letters*, 89(4), 1420-1434.
 
