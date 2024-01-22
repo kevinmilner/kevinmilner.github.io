@@ -4,7 +4,7 @@ layout: single
 permalink: /cv/
 author_profile: true
 show_excerpts: false
-excerpt: Kevin Milner's Curriculum Vitae. Kevin is a geophysicist and computer scientiest at the Southern California Earthquake Center and University of Southern California. He has a PhD in Geological Sciences (Geophysics), and specializes in probabilistic seismic hazard analysis (PSHA), maintaining OpenSHA and developing the UCERF earthquake forecast models.
+excerpt: Kevin Milner's Curriculum Vitae. Kevin is a Research Geophysicist at the U.S. Geological Survey. He has a PhD in Geological Sciences (Geophysics), and specializes in probabilistic seismic hazard analysis (PSHA), maintaining OpenSHA, and developing the National Seismic Hazard Model.
 ---
 
 **Kevin Ross Milner**
@@ -27,13 +27,18 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 | Years | Institution | Title |
 |---|---|---|
-| 2023-present | Southern California Earthquake Center, University of Southern California | Computational Geophysicist |
+| 2024-present | U.S. Geological Survey, Geologic Hazards Science Center | Research Geophysicist |
+| 2023-2024 | Southern California Earthquake Center, University of Southern California | Computational Geophysicist |
 | 2018-2022 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
 ## Publications
 
 **2023**
+
+__Kevin R. Milner__, Edward H. Field; A Comprehensive Fault‐System Inversion Approach: Methods and Application to NSHM23. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120230122
+
+Petersen MD, Shumway AM, Powers PM, Field, EH, Moschetti, MP, Jaiswal, KS, __Milner, KM__, et al. The 2023 US 50-State National Seismic Hazard Model: Overview and implications. _Earthquake Spectra_. 2023;0(0). doi: https://doi.org/10.1177/87552930231215428
 
 Xiaofeng Meng, Christine Goulet, __Kevin Milner__, Robert Graves, Scott Callaghan; Comparison of Nonergodic Ground‐Motion Components from CyberShake and NGA‐West2 Datasets in California. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120220049
 
