@@ -38,6 +38,8 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 __Kevin R. Milner__, Edward H. Field; A Comprehensive Fault‐System Inversion Approach: Methods and Application to NSHM23. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120230122
 
+Edward H. Field, __Kevin R. Milner__, Alexandra E. Hatem, Peter M. Powers, Fred F. Pollitz, Andrea L. Llenos, Yuehua Zeng, Kaj M. Johnson, Bruce E. Shaw, Devin McPhillips, Jessica Thompson Jobe, Allison M. Shumway, Andrew J. Michael, Zheng‐Kang Shen, Eileen L. Evans, Elizabeth H. Hearn, Charles S. Mueller, Arthur D. Frankel, Mark D. Petersen, Christopher DuRoss, Richard W. Briggs, Morgan T. Page, Justin L. Rubinstein, Julie A. Herrick; The USGS 2023 Conterminous U.S. Time‐Independent Earthquake Rupture Forecast. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120230120
+
 Petersen MD, Shumway AM, Powers PM, Field, EH, Moschetti, MP, Jaiswal, KS, __Milner, KM__, et al. The 2023 US 50-State National Seismic Hazard Model: Overview and implications. _Earthquake Spectra_. 2023;0(0). doi: https://doi.org/10.1177/87552930231215428
 
 Xiaofeng Meng, Christine Goulet, __Kevin Milner__, Robert Graves, Scott Callaghan; Comparison of Nonergodic Ground‐Motion Components from CyberShake and NGA‐West2 Datasets in California. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120220049
