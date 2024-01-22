@@ -4,8 +4,8 @@ layout: posts
 author_profile: true
 ---
 
-Kevin Milner is a geophysicist, computer scientist, and musician living in Los Angeles, CA. He works for the [Southern California Earthquake Center](http://www.scec.org) at the University of Southern California, and earned his PhD in Geological Sciences (Geophysics) from USC in 2020 (concurrent with his employment as a computer scientist).
+Kevin Milner is a geophysicist, computer scientist, and musician living in Los Angeles, CA. He works for the [U.S. Geological Survey](https://www.usgs.gov/) and earned his PhD in Geological Sciences (Geophysics) from USC in 2020.
 
-His primary research interest is probabilistic seismic hazard analysis (PSHA). He is the lead developer of [OpenSHA](http://www.opensha.org), an open-source PSHA platform, and of the [Working Group on California Earthquake Probabilities](http://www.wgcep.org). The latter develops state-of-the-art earthquake forecasts for California (e.g. the [third Uniform California Earthquake Rupture Forecast](https://www.scec.org/ucerf)) which are used as input to the building code, earthquake insurance rates, and the USGS National Seismic Hazard Maps. See recent publications and other work-related news [here](/work).
+His primary research interest is probabilistic seismic hazard analysis (PSHA). He is the lead developer of [OpenSHA](http://www.opensha.org), an open-source PSHA platform, and is a key contributor to the [National Seismic Hazard Model](https://www.usgs.gov/programs/earthquake-hazards/science/national-seismic-hazard-model). See recent publications and other work-related news [here](/work).
 
 He is also an avid musician. His primary instruments are the pedal steel and lap steel guitars. He plays in many bands in the Los Angeles region, specializing in Americana and traditional country music. See recent recordings, videos, or other music-related news [here](/music).
