@@ -5,7 +5,7 @@
             "filetype": "png",
             "src": "/assets/images/tbg/background_blurred.png",
             "thumb_src": "/assets/images/tbg/background_blurred_thumb.png"
-        },
+        },{
             "name": "OfficeUnblurred",
             "id": "OfficeUnblurred",
             "filetype": "png",
