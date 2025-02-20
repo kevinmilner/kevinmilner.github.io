@@ -1,0 +1,16 @@
+{
+    "videoBackgroundImages": [{
+            "name": "OfficeBlurred",
+            "id": "OfficeBlurred",
+            "filetype": "png",
+            "src": "/evergreen-assets/backgroundimages/background_blurred.png",
+            "thumb_src": "/evergreen-assets/backgroundimages/background_blurred_thumb.png"
+        },{
+            "name": "OfficeUnblurred",
+            "id": "OfficeUnblurred",
+            "filetype": "png",
+            "src": "/evergreen-assets/backgroundimages/background_unblurred.png",
+            "thumb_src": "/evergreen-assets/backgroundimages/background_unblurred_thumb.png"
+        }
+    ]
+}
