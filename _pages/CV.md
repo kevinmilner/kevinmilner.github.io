@@ -13,7 +13,7 @@ Location: Los Angeles, California
 
 E-mail: `kevin` `<at>` `kevinmilner.net`
 
-*Last updated 11 January, 2023*
+*Last updated 28 April, 2025*
 
 ## Education
 
@@ -33,6 +33,24 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
 ## Publications
+
+**2025**
+
+Bruce E. Shaw, __Kevin R. Milner__, Christine A. Goulet; Deterministic Physics‐Based Earthquake Sequence Simulators Match Empirical Ground‐Motion Models and Enable Extrapolation to Data‐Poor Regimes: Application to Multifault Multimechanism Ruptures. Seismological Research Letters 2025; doi: https://doi.org/10.1785/0220240141
+
+Porter K, __Milner K__, Field E. Trimming the UCERF3-TD logic tree: Model order reduction for an earthquake rupture forecast considering loss exceedance. Earthquake Spectra. 2024;41(1):636-653. doi:10.1177/87552930241280401
+
+**2024**
+
+Andrea L. Llenos, Andrew J. Michael, Allison M. Shumway, Justin L. Rubinstein, Kirstie L. Haynie, Morgan P. Moschetti, Jason M. Altekruse, __Kevin R. Milner__; Forecasting the Long‐Term Spatial Distribution of Earthquakes for the 2023 U.S. National Seismic Hazard Model Using Gridded Seismicity. Bulletin of the Seismological Society of America 2024;; 114 (4): 2028–2053. doi: https://doi.org/10.1785/0120230220
+
+Matthew C. Gerstenberger, Russ Van Dissen, Chris Rollins, Chris DiCaprio, Kiran K. S. Thingbaijim, Sanjay Bora, Chris Chamberlain, Annemarie Christophersen, Genevieve L. Coffey, Susan M. Ellis, Pablo Iturrieta, Kaj M. Johnson, Nicola J. Litchfield, Andy Nicol, __Kevin R. Milner__, Sepi J. Rastin, David Rhoades, Hannu Seebeck, Bruce E. Shaw, Mark W. Stirling, Laura Wallace, Trevor I. Allen, Brendon A. Bradley, Danielle Charlton, Kate J. Clark, Jeff Fraser, Jonathan Griffin, Ian J. Hamling, Andy Howell, Emma Hudson‐Doyle, Anne Hulsey, V. Oakley Jurgens, Anna E. Kaiser, Rachel Kirkman, Rob M. Langridge, Jeremy Maurer, Mark S. Rattenbury, John Ristau, Danijel Schorlemmer, John Townend, Pilar Villamor, Charles Williams; The Seismicity Rate Model for the 2022 Aotearoa New Zealand National Seismic Hazard Model. Bulletin of the Seismological Society of America 2024;; 114 (1): 182–216. doi: https://doi.org/10.1785/0120230165
+
+Matthew C. Gerstenberger, Sanjay Bora, Brendon A. Bradley, Chris DiCaprio, Anna Kaiser, Elena F. Manea, Andy Nicol, Chris Rollins, Mark W. Stirling, Kiran K. S. Thingbaijam, Russ J. Van Dissen, Elizabeth R. Abbott, Gail M. Atkinson, Chris Chamberlain, Annemarie Christophersen, Kate Clark, Genevieve L. Coffey, Chris A. de la Torre, Susan M. Ellis, Jeff Fraser, Kenny Graham, Jonathan Griffin, Ian J. Hamling, Matt P. Hill, A. Howell, Anne Hulsey, Jessie Hutchinson, Pablo Iturrieta, Kaj M. Johnson, V. Oakley Jurgens, Rachel Kirkman, Rob M. Langridge, Robin L. Lee, Nicola J. Litchfield, Jeremy Maurer, __Kevin R. Milner__, Sepi Rastin, Mark S. Rattenbury, David A. Rhoades, John Ristau, Danijel Schorlemmer, Hannu Seebeck, Bruce E. Shaw, Peter J. Stafford, Andrew C. Stolte, John Townend, Pilar Villamor, Laura M. Wallace, Graeme Weatherill, Charles A. Williams, Liam M. Wotherspoon; The 2022 Aotearoa New Zealand National Seismic Hazard Model: Process, Overview, and Results. Bulletin of the Seismological Society of America 2023;; 114 (1): 7–36. doi: https://doi.org/10.1785/0120230182
+
+Callaghan, S., Maechling, P. J., Silva, F., Su, M. H., __Milner, K. R.__, Graves, R. W., ... & Ben-Zion, Y. (2024). Using open-science workflow tools to produce SCEC CyberShake physics-based probabilistic seismic hazard models. Frontiers in High Performance Computing, 2, 1360720.
+
+
 
 **2023**
 
