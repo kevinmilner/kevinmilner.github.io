@@ -13,7 +13,7 @@ Location: Los Angeles, California
 
 E-mail: `kevin` `<at>` `kevinmilner.net`
 
-*Last updated 28 April, 2025*
+*Last updated 2 September, 2025*
 
 ## Education
 
@@ -34,11 +34,23 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 ## Publications
 
+**Forthcoming**
+
+__Kevin R. Milner__, Alexandra E. Hatem, Richard W. Briggs, Jessica A. Thompson-Jobe, Andrea L. Llenos, Andrew J. Michael, Allison M. Shumway, Edward H. Field, and Kirstie L. Haynie (2025). The USGS 2025 Puerto Rico and U.S. Virgin Islands Time-Independent Earthquake Rupture Forecast. Bulletin of the Seismological Society of America. (in review)
+
+Shumway, A. M., __K. R. Milner__, M. P. Moschetti, P. M. Powers, J. M. Altekruse, B. T. Aagaard, A. E. Hatem, R. W. Briggs, J. A. T. Jobe, K. B. Withers, A. L. Llenos, A. J. Michael, K. L. Haynie, J. A. Herrick, M. D. Petersen, K. S. Jaiswal, Y. Zeng, D. L. Girot, S. Rezaeian, E. H. Field, T. L. Pratt, and N. Luco (2025). 2025 U.S. National Seismic Hazard Model for Puerto Rico and the U.S. Virgin Islands: Overview of Model and Hazard Results. Earthquake Spectra. (in review)
+
+Hatem, A. H., __K. R. Milner__, R. W. Briggs, and J. Thompson Jobe (2025). Making many out of one: Synthetic geologic deformation model distributions for use in USGS NSHM25 Puerto Rico-Virgin Island update. Seismological Research Letters. (in press)
+
+Briggs, R. W., __K. R. Milner__, U. ten Brink, A. H. Hatem, J. Thompson Jobe, J. A. Herrick, K. L. Haynie, T. L. Pratt, and E. H. Field (2025). An inversion approach to calculating subduction zone rupture rates: an example from the Puerto Rico-Virgin Islands region. Seismica. (in prep)
+
 **2025**
 
 Bruce E. Shaw, __Kevin R. Milner__, Christine A. Goulet; Deterministic Physics‐Based Earthquake Sequence Simulators Match Empirical Ground‐Motion Models and Enable Extrapolation to Data‐Poor Regimes: Application to Multifault Multimechanism Ruptures. Seismological Research Letters 2025; doi: https://doi.org/10.1785/0220240141
 
 Porter K, __Milner K__, Field E. Trimming the UCERF3-TD logic tree: Model order reduction for an earthquake rupture forecast considering loss exceedance. Earthquake Spectra. 2024;41(1):636-653. doi:10.1177/87552930241280401
+
+Edward H. Field, Alexandra E. Hatem, Bruce E. Shaw, Morgan T. Page, P. Martin Mai, __Kevin R. Milner__, Andrea L. Llenos, Andrew J. Michael, Fred F. Pollitz, Jessica Thompson Jobe, Tom Parsons, Olaf Zielke, David R. Shelly, Alice‐Agnes Gabriel, Devin McPhillips, Richard W. Briggs, Elizabeth S. Cochran, Nicolas Luco, Mark D. Petersen, Peter M. Powers, Justin L. Rubinstein, Allison M. Shumway, Nicholas J. van der Elst, Yuehua Zeng, Christopher B. Duross, Jason M. Altekruse; A Scientific Vision and Roadmap for Earthquake Rupture Forecast Developments, A USGS Perspective. Bulletin of the Seismological Society of America 2025; doi: https://doi.org/10.1785/0120240217
 
 **2024**
 
