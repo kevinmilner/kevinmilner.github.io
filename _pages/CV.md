@@ -38,7 +38,7 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 
 ### 2025
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, **K. R. Milner**, and K. A. Porter, “Risk implications of Poisson assumptions and declustering inferred from a fully time-dependent earthquake forecast,” Earthquake Spectra, vol. 41, no. 3, pp. 1977–1997, Aug. 2025, doi: [10.1177/87552930251340677](https://doi.org/10.1177/87552930251340677).
 
@@ -58,7 +58,7 @@ A. M. Shumway, **K. R. Milner**, M. P. Moschetti, P. M. Powers, J. M. Altekruse,
 
 ### 2024
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 S. Callaghan, P. J. Maechling, F. Silva, M.-H. Su, **K. R. Milner**, R. W. Graves, K. B. Olsen, Y. Cui, K. Vahi, A. Kottke, C. A. Goulet, E. Deelman, T. H. Jordan, and Y. Ben-Zion, “Using open-science workflow tools to produce SCEC CyberShake physics-based probabilistic seismic hazard models,” Front. High Perform. Comput., vol. 2, p. 1360720, May 2024, doi: [10.3389/fhpcp.2024.1360720](https://doi.org/10.3389/fhpcp.2024.1360720).
 
@@ -74,7 +74,7 @@ M. D. Petersen, A. M. Shumway, P. M. Powers, E. H. Field, M. P. Moschetti, K. S.
 
 ### 2023
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, **K. R. Milner**, A. E. Hatem, P. M. Powers, F. F. Pollitz, A. L. Llenos, Y. Zeng, K. M. Johnson, B. E. Shaw, D. McPhillips, J. Thompson Jobe, A. M. Shumway, et al., “The USGS 2023 Conterminous U.S. Time‐Independent Earthquake Rupture Forecast,” Bulletin of the Seismological Society of America, vol. 114, no. 1, pp. 523–571, Dec. 2023, doi: [10.1785/0120230120](https://doi.org/10.1785/0120230120).
 
@@ -88,7 +88,7 @@ X. Meng, C. Goulet, **K. Milner**, R. Graves, and S. Callaghan, “Comparison of
 
 ### 2022
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 **K. R. Milner**, B. E. Shaw, and E. H. Field, “Enumerating Plausible Multifault Ruptures in Complex Fault Systems with Physical Constraints,” Bulletin of the Seismological Society of America, vol. 112, no. 4, pp. 1806–1824, May 2022, doi: [10.1785/0120210322](https://doi.org/10.1785/0120210322).
 
@@ -98,7 +98,7 @@ S. E. Minson, E. S. Cochran, J. K. Saunders, S. K. McBride, S. Wu, A. S. Baltay,
 
 ### 2021
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, **K. R. Milner**, M. T. Page, W. H. Savran, and N. Van Der Elst, “Improvements to the Third Uniform California Earthquake Rupture Forecast ETAS Model (UCERF3-ETAS),” The Seismic Record, vol. 1, no. 2, pp. 117–125, Jul. 2021, doi: [10.1785/0320210017](https://doi.org/10.1785/0320210017).
 
@@ -112,7 +112,7 @@ S. E. Minson, A. S. Baltay, E. S. Cochran, S. K. McBride, and **K. R. Milner**, 
 
 ### 2020
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, **K. R. Milner**, and K. A. Porter, “Assessing the value of removing earthquake-hazard-related epistemic uncertainties, exemplified using average annual loss in California,” Earthquake Spectra, vol. 36, no. 4, pp. 1912–1929, Nov. 2020, doi: [10.1177/8755293020926185](https://doi.org/10.1177/8755293020926185).
 
@@ -128,7 +128,7 @@ W. H. Savran, M. J. Werner, W. Marzocchi, D. A. Rhoades, D. D. Jackson, **K. Mil
 
 ### 2019
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 S. E. Minson, A. S. Baltay, E. S. Cochran, T. C. Hanks, M. T. Page, S. K. McBride, **K. R. Milner**, and M.-A. Meier, “The Limits of Earthquake Early Warning Accuracy and Best Alerting Strategy,” Sci Rep, vol. 9, no. 1, p. 2478, Feb. 2019, doi: [10.1038/s41598-019-39384-y](https://doi.org/10.1038/s41598-019-39384-y).
 
@@ -136,7 +136,7 @@ S. E. Minson, A. S. Baltay, E. S. Cochran, T. C. Hanks, M. T. Page, S. K. McBrid
 
 ### 2018
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 C. B. Crouse, T. Jordan, **K. Milner**, C. Goulet, S. Callaghan, and R. Graves, “Site-specific MCER response spectra for Los Angeles Region based on 3-D numerical simulations and the NGA West2 equations,” in Proceedings of the 11th National Conference in Earthquake Engineering (11NCEE), Los Angeles, California, Jun. 2018.
 
@@ -152,7 +152,7 @@ B. E. Shaw, **K. R. Milner**, E. H. Field, K. Richards-Dinger, J. J. Gilchrist, 
 
 ### 2017
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. Field, K. Porter, and **K. Milner**, “A Prototype Operational Earthquake Loss Model for California Based on UCERF3-ETAS – A First Look at Valuation,” Earthquake Spectra, vol. 33, no. 4, pp. 1279–1299, Nov. 2017, doi: [10.1193/011817eqs017m](https://doi.org/10.1193/011817eqs017m).
 
@@ -166,7 +166,7 @@ K. Porter, E. Field, and **K. Milner**, “Trimming a Hazard Logic Tree with a N
 
 ### 2015
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, G. P. Biasi, P. Bird, T. E. Dawson, K. R. Felzer, D. D. Jackson, K. M. Johnson, T. H. Jordan, C. Madden, A. J. Michael, **K. R. Milner**, M. T. Page, T. Parsons, P. M. Powers, B. E. Shaw, W. R. Thatcher, R. J. Weldon, and Y. Zeng, “Long‐Term Time‐Dependent Probabilities for the Third Uniform California Earthquake Rupture Forecast (UCERF3),” Bulletin of the Seismological Society of America, vol. 105, pp. 511–543, Apr. 2015, doi: [10.1785/0120140093](https://doi.org/10.1785/0120140093).
 
@@ -174,7 +174,7 @@ E. H. Field, G. P. Biasi, P. Bird, T. E. Dawson, K. R. Felzer, D. D. Jackson, K.
 
 ### 2014
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 E. H. Field, R. J. Arrowsmith, G. P. Biasi, P. Bird, T. E. Dawson, K. R. Felzer, D. D. Jackson, K. M. Johnson, T. H. Jordan, C. Madden, A. J. Michael, **K. R. Milner**, M. T. Page, T. Parsons, P. M. Powers, B. E. Shaw, W. R. Thatcher, R. J. I. Weldon, and Y. Zeng, “Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)—The Time‐Independent Model,” Bulletin of the Seismological Society of America, vol. 104, no. 3, pp. 1122–1180, Jun. 2014, doi: [10.1785/0120130164](https://doi.org/10.1785/0120130164).
 
@@ -186,7 +186,7 @@ T. Parsons, M. Segou, V. Sevilgen, **K. Milner**, E. Field, S. Toda, and R. S. S
 
 ### 2013
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 **K. R. Milner**, M. T. Page, E. H. Field, T. Parsons, G. P. Biasi, and B. E. Shaw, “Appendix T—Defining the inversion rupture set using plausibility filters,” 2013, doi: [10.3133/ofr20131165](https://doi.org/10.3133/ofr20131165).
 
@@ -194,7 +194,7 @@ T. Parsons, M. Segou, V. Sevilgen, **K. Milner**, E. Field, S. Toda, and R. S. S
 
 ### 2012
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 T. Parsons, E. H. Field, M. T. Page, and **K. Milner**, “Possible Earthquake Rupture Connections on Mapped California Faults Ranked by Calculated Coulomb Linking Stresses,” Bulletin of the Seismological Society of America, vol. 102, no. 6, pp. 2667–2676, Dec. 2012, doi: [10.1785/0120110349](https://doi.org/10.1785/0120110349).
 
@@ -204,7 +204,7 @@ K. A. Porter, E. H. Field, and **K. Milner**, “Trimming the UCERF2 Hazard Logi
 
 ### 2011
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 S. Callaghan, P. Maechling, P. Small, **K. Milner**, G. Juve, T. H. Jordan, E. Deelman, G. Mehta, K. Vahi, D. Gunter, K. Beattie, and C. Brooks, “Metrics for heterogeneous scientific workflows: A case study of an earthquake science application,” The International Journal of High Performance Computing Applications, vol. 25, no. 3, pp. 274–285, Aug. 2011, doi: [10.1177/1094342011414743](https://doi.org/10.1177/1094342011414743).
 
@@ -214,7 +214,7 @@ R. Graves, T. H. Jordan, S. Callaghan, E. Deelman, E. Field, G. Juve, C. Kesselm
 
 ### 2010
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 S. Callaghan, E. Deelman, D. Gunter, G. Juve, P. Maechling, C. Brooks, K. Vahi, **K. Milner**, R. Graves, E. Field, D. Okaya, and T. Jordan, “Scaling up workflow-based applications,” Journal of Computer and System Sciences, vol. 76, no. 6, pp. 428–446, Sep. 2010, doi: [10.1016/j.jcss.2009.11.005](https://doi.org/10.1016/j.jcss.2009.11.005).
 
@@ -222,7 +222,7 @@ S. Callaghan, E. Deelman, D. Gunter, G. Juve, P. Maechling, C. Brooks, K. Vahi, 
 
 ### 2009
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 **K. Milner**, T. W. Becker, L. Boschi, J. Sain, D. Schorlemmer, and H. Waterhouse, “New Software Framework to Share Research Tools,” EoS Transactions, vol. 90, no. 12, pp. 104–104, Mar. 2009, doi: [10.1029/2009EO120005](https://doi.org/10.1029/2009EO120005).
 
@@ -230,7 +230,7 @@ S. Callaghan, E. Deelman, D. Gunter, G. Juve, P. Maechling, C. Brooks, K. Vahi, 
 
 ### 2008
 
-<div class="pubgrp">
+<div class="pubgrp" markdown="1" style="font-size:75%; line-height:1.25;">
 
 S. Callaghan, P. Maechling, E. Deelman, K. Vahi, G. Mehta, G. Juve, **K. Milner**, R. Graves, E. Field, D. Okaya, D. Gunter, K. Beattie, and T. Jordan, “Reducing Time-to-Solution Using Distributed High-Throughput Mega-Workflows - Experiences from SCEC CyberShake,” in 2008 IEEE Fourth International Conference on eScience, Indianapolis, IN, USA: IEEE, Dec. 2008, pp. 151–158. doi: [10.1109/eScience.2008.60](https://doi.org/10.1109/eScience.2008.60).
 
