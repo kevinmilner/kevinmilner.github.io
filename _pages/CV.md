@@ -32,7 +32,7 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 | 2018-2023 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
-<style>.pubgrp{font-size:75%; line-height:1.25;} .pubgrp p{margin:0.35em 0;}</style>
+<style>.pubgrp p{margin:0.8em 0;}</style>
 
 ## Publications
 
