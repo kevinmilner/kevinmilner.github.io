@@ -6,7 +6,7 @@
 
 $background-color : #f7f7f7;
 
-$max-width: 1200px;
+$max-width: 1800px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // skin
 @import "minimal-mistakes"; // main partials
