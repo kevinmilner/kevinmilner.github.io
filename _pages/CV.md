@@ -13,7 +13,7 @@ Location: Los Angeles, California
 
 E-mail: `kevin` `<at>` `kevinmilner.net`
 
-*Last updated 2 September, 2025*
+*Last updated October, 2025*
 
 ## Education
 
@@ -29,142 +29,139 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 |---|---|---|
 | 2024-present | U.S. Geological Survey, Geologic Hazards Science Center | Research Geophysicist |
 | 2023-2024 | Southern California Earthquake Center, University of Southern California | Computational Geophysicist |
-| 2018-2022 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
+| 2018-2023 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
 ## Publications
 
-**Forthcoming**
+### 2025
 
-__Kevin R. Milner__, Alexandra E. Hatem, Richard W. Briggs, Jessica A. Thompson-Jobe, Andrea L. Llenos, Andrew J. Michael, Allison M. Shumway, Edward H. Field, and Kirstie L. Haynie (2025). The USGS 2025 Puerto Rico and U.S. Virgin Islands Time-Independent Earthquake Rupture Forecast. Bulletin of the Seismological Society of America. (in review)
+E. H. Field, **K. R. Milner**, and K. A. Porter, “Risk implications of Poisson assumptions and declustering inferred from a fully time-dependent earthquake forecast,” Earthquake Spectra, vol. 41, no. 3, pp. 1977–1997, Aug. 2025, doi: [10.1177/87552930251340677](https://doi.org/10.1177/87552930251340677).
 
-Shumway, A. M., __K. R. Milner__, M. P. Moschetti, P. M. Powers, J. M. Altekruse, B. T. Aagaard, A. E. Hatem, R. W. Briggs, J. A. T. Jobe, K. B. Withers, A. L. Llenos, A. J. Michael, K. L. Haynie, J. A. Herrick, M. D. Petersen, K. S. Jaiswal, Y. Zeng, D. L. Girot, S. Rezaeian, E. H. Field, T. L. Pratt, and N. Luco (2025). 2025 U.S. National Seismic Hazard Model for Puerto Rico and the U.S. Virgin Islands: Overview of Model and Hazard Results. Earthquake Spectra. (in review)
+E. H. Field, A. E. Hatem, B. E. Shaw, M. T. Page, P. M. Mai, **K. R. Milner**, A. L. Llenos, A. J. Michael, F. F. Pollitz, J. Thompson Jobe, T. Parsons, O. Zielke, et al., “A Scientific Vision and Roadmap for Earthquake Rupture Forecast Developments, A USGS Perspective,” Bulletin of the Seismological Society of America, Sep. 2025, doi: [10.1785/0120240217](https://doi.org/10.1785/0120240217).
 
-Hatem, A. H., __K. R. Milner__, R. W. Briggs, and J. Thompson Jobe (2025). Making many out of one: Synthetic geologic deformation model distributions for use in USGS NSHM25 Puerto Rico-Virgin Island update. Seismological Research Letters. (in press)
+A. H. Hatem, **K. R. Milner**, R. W. Briggs, and J. Thompson Jobe, “Making many out of one: Synthetic geologic deformation model distributions for use in USGS NSHM25 Puerto Rico-Virgin Island update,” Seismological Research Letters, 2025, Accepted.
 
-Briggs, R. W., __K. R. Milner__, U. ten Brink, A. H. Hatem, J. Thompson Jobe, J. A. Herrick, K. L. Haynie, T. L. Pratt, and E. H. Field (2025). An inversion approach to calculating subduction zone rupture rates: an example from the Puerto Rico-Virgin Islands region. Seismica. (in prep)
+**K. R. Milner**, A. H. Hatem, R. W. Briggs, J. A. Thompson-Jobe, A. L. Llenos, A. J. Michael, A. M. Shumway, E. H. Field, and K. L. Haynie, “The USGS 2025 Puerto Rico and U.S. Virgin Islands Time-Independent Earthquake Rupture Forecast,” Bulletin of the Seismological Society of America, 2025, Accepted.
 
-**2025**
+K. Porter, **K. Milner**, and E. Field, “Trimming the UCERF3-TD logic tree: Model order reduction for an earthquake rupture forecast considering loss exceedance,” Earthquake Spectra, vol. 41, no. 1, pp. 636–653, Feb. 2025, doi: [10.1177/87552930241280401](https://doi.org/10.1177/87552930241280401).
 
-Bruce E. Shaw, __Kevin R. Milner__, Christine A. Goulet; Deterministic Physics‐Based Earthquake Sequence Simulators Match Empirical Ground‐Motion Models and Enable Extrapolation to Data‐Poor Regimes: Application to Multifault Multimechanism Ruptures. Seismological Research Letters 2025; doi: https://doi.org/10.1785/0220240141
+B. E. Shaw, **K. R. Milner**, and C. A. Goulet, “Deterministic Physics‐Based Earthquake Sequence Simulators Match Empirical Ground‐Motion Models and Enable Extrapolation to Data‐Poor Regimes: Application to Multifault Multimechanism Ruptures,” Seismological Research Letters, vol. 96, no. 4, pp. 2431–2444, Mar. 2025, doi: [10.1785/0220240141](https://doi.org/10.1785/0220240141).
 
-Porter K, __Milner K__, Field E. Trimming the UCERF3-TD logic tree: Model order reduction for an earthquake rupture forecast considering loss exceedance. Earthquake Spectra. 2024;41(1):636-653. doi:10.1177/87552930241280401
+A. M. Shumway, **K. R. Milner**, M. P. Moschetti, P. M. Powers, J. M. Altekruse, B. T. Aagaard, A. E. Hatem, R. W. Briggs, J. A. T. Jobe, K. B. Withers, A. L. Llenos, A. J. Michael, et al., “2025 U.S. National Seismic Hazard Model for Puerto Rico and the U.S. Virgin Islands: Overview of Model and Hazard Results,” Earthquake Spectra, 2025, Accepted.
 
-Edward H. Field, Alexandra E. Hatem, Bruce E. Shaw, Morgan T. Page, P. Martin Mai, __Kevin R. Milner__, Andrea L. Llenos, Andrew J. Michael, Fred F. Pollitz, Jessica Thompson Jobe, Tom Parsons, Olaf Zielke, David R. Shelly, Alice‐Agnes Gabriel, Devin McPhillips, Richard W. Briggs, Elizabeth S. Cochran, Nicolas Luco, Mark D. Petersen, Peter M. Powers, Justin L. Rubinstein, Allison M. Shumway, Nicholas J. van der Elst, Yuehua Zeng, Christopher B. Duross, Jason M. Altekruse; A Scientific Vision and Roadmap for Earthquake Rupture Forecast Developments, A USGS Perspective. Bulletin of the Seismological Society of America 2025; doi: https://doi.org/10.1785/0120240217
+### 2024
 
-**2024**
+S. Callaghan, P. J. Maechling, F. Silva, M.-H. Su, **K. R. Milner**, R. W. Graves, K. B. Olsen, Y. Cui, K. Vahi, A. Kottke, C. A. Goulet, E. Deelman, T. H. Jordan, and Y. Ben-Zion, “Using open-science workflow tools to produce SCEC CyberShake physics-based probabilistic seismic hazard models,” Front. High Perform. Comput., vol. 2, p. 1360720, May 2024, doi: [10.3389/fhpcp.2024.1360720](https://doi.org/10.3389/fhpcp.2024.1360720).
 
-Andrea L. Llenos, Andrew J. Michael, Allison M. Shumway, Justin L. Rubinstein, Kirstie L. Haynie, Morgan P. Moschetti, Jason M. Altekruse, __Kevin R. Milner__; Forecasting the Long‐Term Spatial Distribution of Earthquakes for the 2023 U.S. National Seismic Hazard Model Using Gridded Seismicity. Bulletin of the Seismological Society of America 2024;; 114 (4): 2028–2053. doi: https://doi.org/10.1785/0120230220
+M. C. Gerstenberger, R. Van Dissen, C. Rollins, C. DiCaprio, K. K. S. Thingbaijam, S. Bora, C. Chamberlain, A. Christophersen, G. L. Coffey, S. M. Ellis, P. Iturrieta, K. M. Johnson, et al., “The Seismicity Rate Model for the 2022 Aotearoa New Zealand National Seismic Hazard Model,” Bulletin of the Seismological Society of America, vol. 114, no. 1, pp. 182–216, Feb. 2024, doi: [10.1785/0120230165](https://doi.org/10.1785/0120230165).
 
-Matthew C. Gerstenberger, Russ Van Dissen, Chris Rollins, Chris DiCaprio, Kiran K. S. Thingbaijim, Sanjay Bora, Chris Chamberlain, Annemarie Christophersen, Genevieve L. Coffey, Susan M. Ellis, Pablo Iturrieta, Kaj M. Johnson, Nicola J. Litchfield, Andy Nicol, __Kevin R. Milner__, Sepi J. Rastin, David Rhoades, Hannu Seebeck, Bruce E. Shaw, Mark W. Stirling, Laura Wallace, Trevor I. Allen, Brendon A. Bradley, Danielle Charlton, Kate J. Clark, Jeff Fraser, Jonathan Griffin, Ian J. Hamling, Andy Howell, Emma Hudson‐Doyle, Anne Hulsey, V. Oakley Jurgens, Anna E. Kaiser, Rachel Kirkman, Rob M. Langridge, Jeremy Maurer, Mark S. Rattenbury, John Ristau, Danijel Schorlemmer, John Townend, Pilar Villamor, Charles Williams; The Seismicity Rate Model for the 2022 Aotearoa New Zealand National Seismic Hazard Model. Bulletin of the Seismological Society of America 2024;; 114 (1): 182–216. doi: https://doi.org/10.1785/0120230165
+A. L. Llenos, A. J. Michael, A. M. Shumway, J. L. Rubinstein, K. L. Haynie, M. P. Moschetti, J. M. Altekruse, and **K. R. Milner**, “Forecasting the Long‐Term Spatial Distribution of Earthquakes for the 2023 U.S. National Seismic Hazard Model Using Gridded Seismicity,” Bulletin of the Seismological Society of America, vol. 114, no. 4, pp. 2028–2053, Apr. 2024, doi: [10.1785/0120230220](https://doi.org/10.1785/0120230220).
 
-Matthew C. Gerstenberger, Sanjay Bora, Brendon A. Bradley, Chris DiCaprio, Anna Kaiser, Elena F. Manea, Andy Nicol, Chris Rollins, Mark W. Stirling, Kiran K. S. Thingbaijam, Russ J. Van Dissen, Elizabeth R. Abbott, Gail M. Atkinson, Chris Chamberlain, Annemarie Christophersen, Kate Clark, Genevieve L. Coffey, Chris A. de la Torre, Susan M. Ellis, Jeff Fraser, Kenny Graham, Jonathan Griffin, Ian J. Hamling, Matt P. Hill, A. Howell, Anne Hulsey, Jessie Hutchinson, Pablo Iturrieta, Kaj M. Johnson, V. Oakley Jurgens, Rachel Kirkman, Rob M. Langridge, Robin L. Lee, Nicola J. Litchfield, Jeremy Maurer, __Kevin R. Milner__, Sepi Rastin, Mark S. Rattenbury, David A. Rhoades, John Ristau, Danijel Schorlemmer, Hannu Seebeck, Bruce E. Shaw, Peter J. Stafford, Andrew C. Stolte, John Townend, Pilar Villamor, Laura M. Wallace, Graeme Weatherill, Charles A. Williams, Liam M. Wotherspoon; The 2022 Aotearoa New Zealand National Seismic Hazard Model: Process, Overview, and Results. Bulletin of the Seismological Society of America 2023;; 114 (1): 7–36. doi: https://doi.org/10.1785/0120230182
+T. M. O’Donnell, K. M. Stewart, and **K. R. Milner**, “Relative Contributions of Different Sources of Epistemic Uncertainty on Seismic Hazard in California,” in Proceedings of the 18th World Conference in Earthquake Engineering (18WCEE), Milan, Italy, Jun.–Jul. 2024.
 
-Callaghan, S., Maechling, P. J., Silva, F., Su, M. H., __Milner, K. R.__, Graves, R. W., ... & Ben-Zion, Y. (2024). Using open-science workflow tools to produce SCEC CyberShake physics-based probabilistic seismic hazard models. Frontiers in High Performance Computing, 2, 1360720.
+M. D. Petersen, A. M. Shumway, P. M. Powers, E. H. Field, M. P. Moschetti, K. S. Jaiswal, **K. R. Milner**, S. Rezaeian, A. D. Frankel, A. L. Llenos, A. J. Michael, J. M. Altekruse, et al., “The 2023 US 50-State National Seismic Hazard Model: Overview and implications,” Earthquake Spectra, vol. 40, no. 1, pp. 5–88, Feb. 2024, doi: [10.1177/87552930231215428](https://doi.org/10.1177/87552930231215428).
 
+### 2023
 
+E. H. Field, **K. R. Milner**, A. E. Hatem, P. M. Powers, F. F. Pollitz, A. L. Llenos, Y. Zeng, K. M. Johnson, B. E. Shaw, D. McPhillips, J. Thompson Jobe, A. M. Shumway, et al., “The USGS 2023 Conterminous U.S. Time‐Independent Earthquake Rupture Forecast,” Bulletin of the Seismological Society of America, vol. 114, no. 1, pp. 523–571, Dec. 2023, doi: [10.1785/0120230120](https://doi.org/10.1785/0120230120).
 
-**2023**
+M. C. Gerstenberger, S. Bora, B. A. Bradley, C. DiCaprio, A. Kaiser, E. F. Manea, A. Nicol, C. Rollins, M. W. Stirling, K. K. S. Thingbaijam, R. J. Van Dissen, E. R. Abbott, et al., “The 2022 Aotearoa New Zealand National Seismic Hazard Model: Process, Overview, and Results,” Bulletin of the Seismological Society of America, vol. 114, no. 1, pp. 7–36, Dec. 2023, doi: [10.1785/0120230182](https://doi.org/10.1785/0120230182).
 
-__Kevin R. Milner__, Edward H. Field; A Comprehensive Fault‐System Inversion Approach: Methods and Application to NSHM23. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120230122
+X. Meng, C. Goulet, **K. Milner**, R. Graves, and S. Callaghan, “Comparison of Nonergodic Ground-Motion Components from CyberShake and NGA-West2 Datasets in California,” Bulletin of the Seismological Society of America, vol. 113, no. 3, pp. 1152–1175, Jun. 2023, doi: [10.1785/0120220049](https://doi.org/10.1785/0120220049).
 
-Edward H. Field, __Kevin R. Milner__, Alexandra E. Hatem, Peter M. Powers, Fred F. Pollitz, Andrea L. Llenos, Yuehua Zeng, Kaj M. Johnson, Bruce E. Shaw, Devin McPhillips, Jessica Thompson Jobe, Allison M. Shumway, Andrew J. Michael, Zheng‐Kang Shen, Eileen L. Evans, Elizabeth H. Hearn, Charles S. Mueller, Arthur D. Frankel, Mark D. Petersen, Christopher DuRoss, Richard W. Briggs, Morgan T. Page, Justin L. Rubinstein, Julie A. Herrick; The USGS 2023 Conterminous U.S. Time‐Independent Earthquake Rupture Forecast. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120230120
+**K. R. Milner** and E. H. Field, “A Comprehensive Fault‐System Inversion Approach: Methods and Application to NSHM23,” Bulletin of the Seismological Society of America, vol. 114, no. 1, pp. 486–522, Dec. 2023, doi: [10.1785/0120230122](https://doi.org/10.1785/0120230122).
 
-Petersen MD, Shumway AM, Powers PM, Field, EH, Moschetti, MP, Jaiswal, KS, __Milner, KM__, et al. The 2023 US 50-State National Seismic Hazard Model: Overview and implications. _Earthquake Spectra_. 2023;0(0). doi: https://doi.org/10.1177/87552930231215428
+### 2022
 
-Xiaofeng Meng, Christine Goulet, __Kevin Milner__, Robert Graves, Scott Callaghan; Comparison of Nonergodic Ground‐Motion Components from CyberShake and NGA‐West2 Datasets in California. _Bulletin of the Seismological Society of America_ 2023; doi: https://doi.org/10.1785/0120220049
+**K. R. Milner**, B. E. Shaw, and E. H. Field, “Enumerating Plausible Multifault Ruptures in Complex Fault Systems with Physical Constraints,” Bulletin of the Seismological Society of America, vol. 112, no. 4, pp. 1806–1824, May 2022, doi: [10.1785/0120210322](https://doi.org/10.1785/0120210322).
 
-**2022**
+S. E. Minson, E. S. Cochran, J. K. Saunders, S. K. McBride, S. Wu, A. S. Baltay, and **K. R. Milner**, “What to expect when you are expecting earthquake early warning,” Geophysical Journal International, vol. 231, no. 2, pp. 1386–1403, Aug. 2022, doi: [10.1093/gji/ggac246](https://doi.org/10.1093/gji/ggac246).
 
-Sarah E Minson, Elizabeth S Cochran, Jessie K Saunders, Sara K McBride, Stephen Wu, Annemarie S Baltay, __Kevin R Milner__, What to expect when you are expecting earthquake early warning, _Geophysical Journal International_, Volume 231, Issue 2, November 2022, Pages 1386–1403, https://doi.org/10.1093/gji/ggac246
+### 2021
 
-__Kevin R. Milner__, Bruce E. Shaw, Edward H. Field; Enumerating Plausible Multifault Ruptures in Complex Fault Systems with Physical Constraints. _Bulletin of the Seismological Society of America_ 2022;; 112 (4): 1806–1824. doi: https://doi.org/10.1785/0120210322
+E. H. Field, **K. R. Milner**, M. T. Page, W. H. Savran, and N. Van Der Elst, “Improvements to the Third Uniform California Earthquake Rupture Forecast ETAS Model (UCERF3-ETAS),” The Seismic Record, vol. 1, no. 2, pp. 117–125, Jul. 2021, doi: [10.1785/0320210017](https://doi.org/10.1785/0320210017).
 
-**2021**
+E. H. Field, **K. R. Milner**, and N. Luco, “The Seismic Hazard Implications of Declustering and Poisson Assumptions Inferred from a Fully Time‐Dependent Model,” Bulletin of the Seismological Society of America, vol. 112, no. 1, pp. 527–537, Oct. 2021, doi: [10.1785/0120210027](https://doi.org/10.1785/0120210027).
 
-Edward H. Field, __Kevin R. Milner__, Nicolas Luco; The Seismic Hazard Implications of Declustering and Poisson Assumptions Inferred from a Fully Time‐Dependent Model. _Bulletin of the Seismological Society of America_ 2021;; 112 (1): 527–537. doi: https://doi.org/10.1785/0120210027
+**K. R. Milner**, B. E. Shaw, C. A. Goulet, K. B. Richards-Dinger, S. Callaghan, T. H. Jordan, J. H. Dieterich, and E. H. Field, “Toward Physics-Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California,” Bulletin of the Seismological Society of America, vol. 111, no. 2, pp. 898–915, Apr. 2021, doi: [10.1785/0120200216](https://doi.org/10.1785/0120200216).
 
-Edward H. Field, __Kevin R. Milner__, Morgan T. Page, William H. Savran, Nicholas van der Elst; Improvements to the Third Uniform California Earthquake Rupture Forecast ETAS Model (UCERF3‐ETAS). _The Seismic Record_ 2021;; 1 (2): 117–125. doi: https://doi.org/10.1785/0320210017
+S. E. Minson, A. S. Baltay, E. S. Cochran, S. K. McBride, and **K. R. Milner**, “Shaking is Almost Always a Surprise: The Earthquakes That Produce Significant Ground Motion,” Seismological Research Letters, vol. 92, no. 1, pp. 460–468, Jan. 2021, doi: [10.1785/0220200165](https://doi.org/10.1785/0220200165).
 
-Edward H. Field, __Kevin R. Milner__, Morgan T. Page; Generalizing the Inversion‐Based PSHA Source Model for an Interconnected Fault System. _Bulletin of the Seismological Society of America 2020_;; 111 (1): 371–390. doi: https://doi.org/10.1785/0120200219
+### 2020
 
-**Kevin R. Milner**, Bruce E. Shaw, Christine A. Goulet, Keith B. Richards‐Dinger, Scott Callaghan, Thomas H. Jordan, James H. Dieterich, Edward H. Field; Toward Physics‐Based Nonergodic PSHA: A Prototype Fully Deterministic Seismic Hazard Model for Southern California. *Bulletin of the Seismological Society of America*. doi: https://doi.org/10.1785/0120200216
+E. H. Field, **K. R. Milner**, and K. A. Porter, “Assessing the value of removing earthquake-hazard-related epistemic uncertainties, exemplified using average annual loss in California,” Earthquake Spectra, vol. 36, no. 4, pp. 1912–1929, Nov. 2020, doi: [10.1177/8755293020926185](https://doi.org/10.1177/8755293020926185).
 
-**2020**
+E. H. Field, **K. R. Milner**, and M. T. Page, “Generalizing the Inversion‐Based PSHA Source Model for an Interconnected Fault System,” Bulletin of the Seismological Society of America, vol. 111, no. 1, pp. 371–390, Nov. 2020, doi: [10.1785/0120200219](https://doi.org/10.1785/0120200219).
 
-Sarah E. Minson, Annemarie S. Baltay, Elizabeth S. Cochran, Sara K. McBride, **Kevin R. Milner**; Shaking is Almost Always a Surprise: The Earthquakes That Produce Significant Ground Motion. *Seismological Research Letters 2020*; 92 (1): 460–468. doi: https://doi.org/10.1785/0220200165
+A. J. Michael, S. K. McBride, J. L. Hardebeck, M. Barall, E. Martinez, M. T. Page, N. Van Der Elst, E. H. Field, **K. R. Milner**, and A. M. Wein, “Statistical Seismology and Communication of the USGS Operational Aftershock Forecasts for the 30 November 2018 Mw 7.1 Anchorage, Alaska, Earthquake,” Seismological Research Letters, vol. 91, no. 1, pp. 153–173, Jan. 2020, doi: [10.1785/0220190196](https://doi.org/10.1785/0220190196).
 
-Edward H. Field, **Kevin R. Milner**, Morgan T. Page; Generalizing the Inversion‐Based PSHA Source Model for an Interconnected Fault System. *Bulletin of the Seismological Society of America* 2020; doi: https://doi.org/10.1785/0120200219
+**K. R. Milner**, E. H. Field, W. H. Savran, M. T. Page, and T. H. Jordan, “Operational Earthquake Forecasting during the 2019 Ridgecrest, California, Earthquake Sequence with the UCERF3-ETAS Model,” Seismological Research Letters, vol. 91, no. 3, pp. 1567–1578, May 2020, doi: [10.1785/0220190294](https://doi.org/10.1785/0220190294).
 
-William H. Savran, Maximilian J. Werner, Warner Marzocchi, David A. Rhoades, David D. Jackson, **Kevin Milner**, Edward Field, Andrew Michael; Pseudoprospective Evaluation of UCERF3‐ETAS Forecasts during the 2019 Ridgecrest Sequence. *Bulletin of the Seismological Society of America* 2020; 110 (4): 1799–1817. doi: https://doi.org/10.1785/0120200026
+W. H. Savran, M. J. Werner, W. Marzocchi, D. A. Rhoades, D. D. Jackson, **K. Milner**, E. Field, and A. Michael, “Pseudoprospective Evaluation of UCERF3-ETAS Forecasts during the 2019 Ridgecrest Sequence,” Bulletin of the Seismological Society of America, vol. 110, no. 4, pp. 1799–1817, Aug. 2020, doi: [10.1785/0120200026](https://doi.org/10.1785/0120200026).
 
-Field, E. H., **Milner, K. R.**, & Porter, K. A. (2020). Assessing the value of removing earthquake-hazard-related epistemic uncertainties, exemplified using average annual loss in California. *Earthquake Spectra*, 36(4), 1912–1929. https://doi.org/10.1177/8755293020926185
+### 2019
 
-**Kevin R. Milner**, Edward H. Field, William H. Savran, Morgan T. Page, Thomas H. Jordan; Operational Earthquake Forecasting during the 2019 Ridgecrest, California, Earthquake Sequence with the UCERF3‐ETAS Model. *Seismological Research Letters* 2020; 91 (3): 1567–1578. doi: https://doi.org/10.1785/0220190294
+S. E. Minson, A. S. Baltay, E. S. Cochran, T. C. Hanks, M. T. Page, S. K. McBride, **K. R. Milner**, and M.-A. Meier, “The Limits of Earthquake Early Warning Accuracy and Best Alerting Strategy,” Sci Rep, vol. 9, no. 1, p. 2478, Feb. 2019, doi: [10.1038/s41598-019-39384-y](https://doi.org/10.1038/s41598-019-39384-y).
 
-**2019**
+### 2018
 
-Andrew J. Michael, Sara K. McBride, Jeanne L. Hardebeck, Michael Barall, Eric Martinez, Morgan T. Page, Nicholas van der Elst, Edward H. Field, **Kevin R. Milner**, Anne M. Wein; Statistical Seismology and Communication of the USGS Operational Aftershock Forecasts for the 30 November 2018 Mw 7.1 Anchorage, Alaska, Earthquake. *Seismological Research Letters* 2019; 91 (1): 153–173. doi: https://doi.org/10.1785/0220190196
+C. B. Crouse, T. Jordan, **K. Milner**, C. Goulet, S. Callaghan, and R. Graves, “Site-specific MCER response spectra for Los Angeles Region based on 3-D numerical simulations and the NGA West2 equations,” in Proceedings of the 11th National Conference in Earthquake Engineering (11NCEE), Los Angeles, California, Jun. 2018.
 
-Minson, S.E., Baltay, A.S., Cochran, E.S., Hanks, T.C., Page, M.T., McBride, S.K., **Milner, K.R.** and Meier, M.A., 2019. The limits of earthquake early warning accuracy and best alerting strategy. *Scientific reports*, 9(1), pp.1-13.
+E. H. Field and **K. R. Milner**, “Candidate Products for Operational Earthquake Forecasting Illustrated Using the HayWired Planning Scenario, Including One Very Quick (and Not‐So‐Dirty) Hazard‐Map Option,” Seismological Research Letters, vol. 89, no. 4, pp. 1420–1434, Jul. 2018, doi: [10.1785/0220170241](https://doi.org/10.1785/0220170241).
 
-**2018**
+T. H. Jordan, S. Callaghan, R. W. Graves, F. Wang, **K. R. Milner**, C. A. Goulet, P. J. Maechling, K. B. Olsen, G. Juve, K. Vahi, J. Yu, E. Deelman, and D. Gill, “CyberShake models of seismic hazards in Southern and Central California,” in Proceedings of the 11th National Conference in Earthquake Engineering (11NCEE), Los Angeles, California, Jun. 2018.
 
-Shaw, B. E., **Milner, K. R.**, Field, E. H., Richards-Dinger, K., Gilchrist, J. J., Dieterich, J. H., & Jordan, T. H. (2018). A physics-based earthquake simulator replicates seismic hazard statistics across California. *Science advances*, 4(8), eaau0688. doi: https://doi.org/10.1126/sciadv.aau0688
+M. P. Moschetti, S. Chang, C. B. Crouse, A. Frankel, R. Graves, H. Puangnak, N. Luco, C. Goulet, S. Rezaeian, A. Shumway, P. M. Powers, M. D. Petersen, S. Callaghan, T. H. Jordan, and **K. Milner**, “The science, engineering applications, and policy implications of simulation‐based PSHA,” in Proceedings of the 11th National Conference in Earthquake Engineering (11NCEE), Los Angeles, California, Jun. 2018.
 
-Field, E. H., & **Milner, K. R. (2018)**. Candidate products for operational earthquake forecasting illustrated using the HayWired planning scenario, including one very quick (and not‐so‐dirty) hazard‐map option. *Seismological Research Letters*, 89(4), 1420-1434.
+B. E. Shaw, **K. R. Milner**, E. H. Field, K. Richards-Dinger, J. J. Gilchrist, J. H. Dieterich, and T. H. Jordan, “A physics-based earthquake simulator replicates seismic hazard statistics across California,” Sci. Adv., vol. 4, no. 8, p. eaau0688, Aug. 2018, doi: [10.1126/sciadv.aau0688](https://doi.org/10.1126/sciadv.aau0688).
 
-Moschetti, M. P., Chang, S., Crouse, C. B., Frankel, A., Graves, R., Puangnak, H., Luco, N., Goulet, C. A., Rezaeian, S., Shumway, A., Powers, P. M., Petersen, M. D., Callaghan, S., Jordan, T. H., & **Milner, K. R.** (2018, June). The science, engineering applications, and policy implications of simulation‐based PSHA. In *Proceedings of the 11th National Conference in Earthquake Engineering (11NCEE)*, June (pp. 25-19).
+### 2017
 
-Crouse, C. B., Jordan, T. H., **Milner, K. R.**, Goulet, C. A., Callaghan, S., & Graves, R. W. (2018, June). Site‐specific MCER response spectra for Los Angeles region based on 3‐D numerical simulations and the NGA West2 equations. In *Oral Presentation at 11th National Conference in Earthquake Engineering*. Paper (Vol. 518).
+E. Field, K. Porter, and **K. Milner**, “A Prototype Operational Earthquake Loss Model for California Based on UCERF3-ETAS – A First Look at Valuation,” Earthquake Spectra, vol. 33, no. 4, pp. 1279–1299, Nov. 2017, doi: [10.1193/011817eqs017m](https://doi.org/10.1193/011817eqs017m).
 
-Jordan, T. H., Callaghan, S., Graves, R. W., Wang, F., **Milner, K. R.**, Goulet, C. A., Maechling, P. J., Olsen, K. B., Cui, Y., Juve, G., Vahi, K., Yu, J., Deelman, E., and Gill, D. (2018, January). CyberShake models of seismic hazards in Southern and Central California. In *Proceedings of the US National Conference on Earthquake Engineering*.
+E. H. Field, **K. R. Milner**, J. L. Hardebeck, M. T. Page, N. Van Der Elst, T. H. Jordan, A. J. Michael, B. E. Shaw, and M. J. Werner, “A Spatiotemporal Clustering Model for the Third Uniform California Earthquake Rupture Forecast (UCERF3‐ETAS): Toward an Operational Earthquake Forecast,” Bulletin of the Seismological Society of America, vol. 107, no. 3, pp. 1049–1081, Jun. 2017, doi: [10.1785/0120160173](https://doi.org/10.1785/0120160173).
 
-**2017**
+E. H. Field, T. H. Jordan, M. T. Page, **K. R. Milner**, B. E. Shaw, T. E. Dawson, G. P. Biasi, T. Parsons, J. L. Hardebeck, A. J. Michael, R. J. Weldon, P. M. Powers, et al., “A Synoptic View of the Third Uniform California Earthquake Rupture Forecast (UCERF3),” Seismological Research Letters, vol. 88, no. 5, pp. 1259–1267, Sep. 2017, doi: [10.1785/0220170045](https://doi.org/10.1785/0220170045).
 
-Field, E., Porter, K., & **Milner, K.** (2017). A Prototype Operational Earthquake Loss Model for California Based on UCERF3-ETAS–A First Look at Valuation. *Earthquake spectra*, 33(4), 1279-1299. doi: https://doi.org/10.1193/011817eqs017m
+K. Porter, E. Field, and **K. Milner**, “Trimming a Hazard Logic Tree with a New Model-Order-Reduction Technique,” Earthquake Spectra, vol. 33, no. 3, pp. 857–874, Aug. 2017, doi: [10.1193/092616eqs158m](https://doi.org/10.1193/092616eqs158m).
 
-Field, E. H., Jordan, T. H., Page, M. T., **Milner, K. R.**, Shaw, B. E., Dawson, T. E., ... & Weldon, R. J. (2017). A synoptic view of the third Uniform California Earthquake Rupture Forecast (UCERF3). *Seismological Research Letters*, 88(5), 1259-1267.
+### 2015
 
-Porter, K., Field, E., & **Milner, K.** (2017). Trimming a hazard logic tree with a new model-order-reduction technique. *Earthquake spectra*, 33(3), 857-874. doi: https://doi.org/10.1193/092616EQS158M
+E. H. Field, G. P. Biasi, P. Bird, T. E. Dawson, K. R. Felzer, D. D. Jackson, K. M. Johnson, T. H. Jordan, C. Madden, A. J. Michael, **K. R. Milner**, M. T. Page, T. Parsons, P. M. Powers, B. E. Shaw, W. R. Thatcher, R. J. Weldon, and Y. Zeng, “Long‐Term Time‐Dependent Probabilities for the Third Uniform California Earthquake Rupture Forecast (UCERF3),” Bulletin of the Seismological Society of America, vol. 105, pp. 511–543, Apr. 2015, doi: [10.1785/0120140093](https://doi.org/10.1785/0120140093).
 
-Field, E. H., **Milner, K. R.**, Hardebeck, J. L., Page, M. T., van der Elst, N., Jordan, T. H., ... & Werner, M. J. (2017). A spatiotemporal clustering model for the third Uniform California Earthquake Rupture Forecast (UCERF3‐ETAS): Toward an operational earthquake forecast. *Bulletin of the Seismological Society of America*, 107(3), 1049-1081.
+### 2014
 
-**2014**
+E. H. Field, R. J. Arrowsmith, G. P. Biasi, P. Bird, T. E. Dawson, K. R. Felzer, D. D. Jackson, K. M. Johnson, T. H. Jordan, C. Madden, A. J. Michael, **K. R. Milner**, M. T. Page, T. Parsons, P. M. Powers, B. E. Shaw, W. R. Thatcher, R. J. I. Weldon, and Y. Zeng, “Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)—The Time‐Independent Model,” Bulletin of the Seismological Society of America, vol. 104, no. 3, pp. 1122–1180, Jun. 2014, doi: [10.1785/0120130164](https://doi.org/10.1785/0120130164).
 
-Edward H. Field, Glenn P. Biasi, Peter Bird, Timothy E. Dawson, Karen R. Felzer, David D. Jackson, Kaj M. Johnson, Thomas H. Jordan, Christopher Madden, Andrew J. Michael, **Kevin R. Milner**, Morgan T. Page, Tom Parsons, Peter M. Powers, Bruce E. Shaw, Wayne R. Thatcher, Ray J. Weldon, Yuehua Zeng; Long‐Term Time‐Dependent Probabilities for the Third Uniform California Earthquake Rupture Forecast (UCERF3). *Bulletin of the Seismological Society of America* ; 105 (2A): 511–543. doi: https://doi.org/10.1785/0120140093
+M. T. Page, E. H. Field, **K. R. Milner**, and P. M. Powers, “The UCERF3 Grand Inversion: Solving for the Long‐Term Rate of Ruptures in a Fault System,” Bulletin of the Seismological Society of America, vol. 104, no. 3, pp. 1181–1204, Jun. 2014, doi: [10.1785/0120130180](https://doi.org/10.1785/0120130180).
 
-Page, M. T., Field, E. H., **Milner, K. R.**, & Powers, P. M. (2014). The UCERF3 grand inversion: Solving for the long‐term rate of ruptures in a fault system. *Bulletin of the Seismological Society of America*, 104(3), 1181-1204. doi: 
-https://doi.org/10.1785/0120130180
+T. Parsons, M. Segou, V. Sevilgen, **K. Milner**, E. Field, S. Toda, and R. S. Stein, “Stress‐based aftershock forecasts made within 24 h postmain shock: Expected north San Francisco Bay area seismicity changes after the 2014 M = 6.0 West Napa earthquake,” Geophysical Research Letters, vol. 41, no. 24, pp. 8792–8799, Dec. 2014, doi: [10.1002/2014GL062379](https://doi.org/10.1002/2014GL062379).
 
-Edward H. Field, Ramon J. Arrowsmith, Glenn P. Biasi, Peter Bird, Timothy E. Dawson, Karen R. Felzer, David D. Jackson, Kaj M. Johnson, Thomas H. Jordan, Christopher Madden, Andrew J. Michael, **Kevin R. Milner**, Morgan T. Page, Tom Parsons, Peter M. Powers, Bruce E. Shaw, Wayne R. Thatcher, Ray J. Weldon, Yuehua Zeng; Uniform California Earthquake Rupture Forecast, Version 3 (UCERF3)—The Time‐Independent Model. B*ulletin of the Seismological Society of America* ; 104 (3): 1122–1180. doi: https://doi.org/10.1785/0120130164
+### 2013
 
-**Milner, K. R.**, Page, M. T., Field, E. H., Parsons, T., Biasi, G. P., & Shaw, B. E. (2013). Appendix T—Defining the inversion rupture set using plausibility filters. US Geol. Surv. Open‐File Rept. 2013‐1165.
+**K. R. Milner**, M. T. Page, E. H. Field, T. Parsons, G. P. Biasi, and B. E. Shaw, “Appendix T—Defining the inversion rupture set using plausibility filters,” 2013, doi: [10.3133/ofr20131165](https://doi.org/10.3133/ofr20131165).
 
-Parsons, T., Segou, M., Sevilgen, V., **Milner, K.**, Field, E., Toda, S., & Stein, R. S. (2014). Stress‐based aftershock forecasts made within 24 h postmain shock: Expected north San Francisco Bay area seismicity changes after the 2014 M= 6.0 West Napa earthquake. *Geophysical Research Letters*, 41(24), 8792-8799.
+### 2012
 
-**2012**
+T. Parsons, E. H. Field, M. T. Page, and **K. Milner**, “Possible Earthquake Rupture Connections on Mapped California Faults Ranked by Calculated Coulomb Linking Stresses,” Bulletin of the Seismological Society of America, vol. 102, no. 6, pp. 2667–2676, Dec. 2012, doi: [10.1785/0120110349](https://doi.org/10.1785/0120110349).
 
-Parsons, T., Field, E. H., Page, M. T., & **Milner, K.** (2012). Possible earthquake rupture connections on mapped California faults ranked by calculated Coulomb linking stresses. *Bulletin of the Seismological Society of America*, 102(6), 2667-2676.
+K. A. Porter, E. H. Field, and **K. Milner**, “Trimming the UCERF2 Hazard Logic Tree,” Seismological Research Letters, vol. 83, no. 5, pp. 815–828, Sep. 2012, doi: [10.1785/0220120012](https://doi.org/10.1785/0220120012).
 
-Porter, K. A., Field, E. H., & **Milner, K.** (2012). Trimming the UCERF2 hazard logic tree. *Seismological Research Letters*, 83(5), 815-828.
+### 2011
 
-**2011**
+S. Callaghan, P. Maechling, P. Small, **K. Milner**, G. Juve, T. H. Jordan, E. Deelman, G. Mehta, K. Vahi, D. Gunter, K. Beattie, and C. Brooks, “Metrics for heterogeneous scientific workflows: A case study of an earthquake science application,” The International Journal of High Performance Computing Applications, vol. 25, no. 3, pp. 274–285, Aug. 2011, doi: [10.1177/1094342011414743](https://doi.org/10.1177/1094342011414743).
 
-Callaghan, S., Maechling, P., Small, P., **Milner, K.**, Juve, G., Jordan, T.H., Deelman, E., Mehta, G., Vahi, K., Gunter, D. and Beattie, K., 2011. Metrics for heterogeneous scientific workflows: A case study of an earthquake science application. *The International Journal of High Performance Computing Applications*, 25(3), pp.274-285.
+R. Graves, T. H. Jordan, S. Callaghan, E. Deelman, E. Field, G. Juve, C. Kesselman, P. Maechling, G. Mehta, **K. Milner**, D. Okaya, P. Small, and K. Vahi, “CyberShake: A Physics-Based Seismic Hazard Model for Southern California,” Pure Appl. Geophys., vol. 168, no. 3–4, pp. 367–381, Mar. 2011, doi: [10.1007/s00024-010-0161-6](https://doi.org/10.1007/s00024-010-0161-6).
 
-Graves, R., Jordan, T.H., Callaghan, S., Deelman, E., Field, E., Juve, G., Kesselman, C., Maechling, P., Mehta, G., **Milner, K.** and Okaya, D., 2011. CyberShake: A physics-based seismic hazard model for southern California. *Pure and Applied Geophysics*, 168(3-4), pp.367-381.
+### 2010
 
-**2010**
+S. Callaghan, E. Deelman, D. Gunter, G. Juve, P. Maechling, C. Brooks, K. Vahi, **K. Milner**, R. Graves, E. Field, D. Okaya, and T. Jordan, “Scaling up workflow-based applications,” Journal of Computer and System Sciences, vol. 76, no. 6, pp. 428–446, Sep. 2010, doi: [10.1016/j.jcss.2009.11.005](https://doi.org/10.1016/j.jcss.2009.11.005).
 
-Callaghan, S., Deelman, E., Gunter, D., Juve, G., Maechling, P., Brooks, C., Vahi, K., **Milner, K.**, Graves, R., Field, E. and Okaya, D., 2010. Scaling up workflow-based applications. *Journal of Computer and System Sciences*, 76(6), pp.428-446.
+### 2009
 
-**2009**
+**K. Milner**, T. W. Becker, L. Boschi, J. Sain, D. Schorlemmer, and H. Waterhouse, “New Software Framework to Share Research Tools,” EoS Transactions, vol. 90, no. 12, pp. 104–104, Mar. 2009, doi: [10.1029/2009EO120005](https://doi.org/10.1029/2009EO120005).
 
-**Milner, K.**, Becker, T. W., Boschi, L., Sain, J., Schorlemmer, D., & Waterhouse, H. (2009). New software framework to share research tools. Eos, Transactions American Geophysical Union, 90(12), 104-104.
+### 2008
 
-**2008**
-
-Callaghan, S., Maechling, P., Deelman, E., Vahi, K., Mehta, G., Juve, G., **Milner, K.**, Graves, R., Field, E., Okaya, D. and Gunter, D., 2008, December. Reducing time-to-solution using distributed high-throughput mega-workflows-experiences from SCEC CyberShake. In *2008 IEEE Fourth International Conference on eScience* (pp. 151-158). IEEE.
-
-Field, E. H., & **Milner, K. R.** (2008). Forecasting California's earthquakes: What can we expect in the next 30 years? (No. 2008-3027). *US Geological Survey.*
+S. Callaghan, P. Maechling, E. Deelman, K. Vahi, G. Mehta, G. Juve, **K. Milner**, R. Graves, E. Field, D. Okaya, D. Gunter, K. Beattie, and T. Jordan, “Reducing Time-to-Solution Using Distributed High-Throughput Mega-Workflows - Experiences from SCEC CyberShake,” in 2008 IEEE Fourth International Conference on eScience, Indianapolis, IN, USA: IEEE, Dec. 2008, pp. 151–158. doi: [10.1109/eScience.2008.60](https://doi.org/10.1109/eScience.2008.60).
