@@ -11,6 +11,12 @@
             "filetype": "png",
             "src": "/evergreen-assets/backgroundimages/background_unblurred.png",
             "thumb_src": "/evergreen-assets/backgroundimages/background_unblurred_thumb.png"
+        },{
+            "name": "MidcenturyStudy",
+            "id": "MidcenturyStudy",
+            "filetype": "png",
+            "src": "/evergreen-assets/backgroundimages/midcentury_study.png",
+            "thumb_src": "/evergreen-assets/backgroundimages/midcentury_study_thumb.png"
         }
     ]
 }
