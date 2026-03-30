@@ -13,7 +13,7 @@ Location: Los Angeles, California
 
 E-mail: `kevin` `<at>` `kevinmilner.net`
 
-*Last updated October, 2025*
+*Last updated March, 2026*
 
 ## Education
 
