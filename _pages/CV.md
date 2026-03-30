@@ -32,6 +32,12 @@ E-mail: `kevin` `<at>` `kevinmilner.net`
 | 2018-2023 | Southern California Earthquake Center, University of Southern California | Computer Scientist |
 | 2008-2018 | Southern California Earthquake Center, University of Southern California | Research Programmer II |
 
+## Awards and Honors
+
+| Year | Name | Institution |
+|---|---|---|
+| 2026 | Charles F. Richter Early-Career Award | Seismological Society of America|
+
 <style>.pubgrp p{margin:0.8em 0;}</style>
 
 ## Publications
