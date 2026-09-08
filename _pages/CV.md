@@ -56,6 +56,8 @@ M. T. Page, **K. R. Milner**, and E. H. Field, “Testing Characteristic Magnitu
 
 J. M. Rekoske, S. Callaghan, **K. R. Milner**, D. A. May, and A. Gabriel, “Efficient Physics‐Informed Ground‐Motion Simulations with Reduced‐Order Models: CyberShake Implications and High‐Resolution Site Terms for Southern San Andreas Fault Earthquakes,” Bull. Seismol. Soc. Am., Sep. 2026, doi: [10.1785/0120260021](https://doi.org/10.1785/0120260021).
 
+A. M. Shumway, **K. R. Milner**, P. M. Powers, M. P. Moschetti, J. M. Altekruse, J. A. Herrick, A. L. Llenos, K. B. Withers, E. H. Field, B. T. Aagaard, R. W. Briggs, A. E. Hatem, et al., “2025 U.S. Geological Survey National Seismic Hazard Model for Puerto Rico and the U.S. Virgin Islands: Overview of Model and Hazard Results,” Earthq. Spectra, vol. 42, no. 2, p. e70055, 2026, doi: [10.1002/esp4.70055](https://doi.org/10.1002/esp4.70055).
+
 </div>
 
 ### 2025
@@ -69,8 +71,6 @@ E. H. Field, A. E. Hatem, B. E. Shaw, M. T. Page, P. M. Mai, **K. R. Milner**, A
 K. Porter, **K. Milner**, and E. Field, “Trimming the UCERF3-TD logic tree: Model order reduction for an earthquake rupture forecast considering loss exceedance,” Earthq. Spectra, vol. 41, no. 1, pp. 636–653, Feb. 2025, doi: [10.1177/87552930241280401](https://doi.org/10.1177/87552930241280401).
 
 B. E. Shaw, **K. R. Milner**, and C. A. Goulet, “Deterministic Physics‐Based Earthquake Sequence Simulators Match Empirical Ground‐Motion Models and Enable Extrapolation to Data‐Poor Regimes: Application to Multifault Multimechanism Ruptures,” Seismol. Res. Lett., vol. 96, no. 4, pp. 2431–2444, Mar. 2025, doi: [10.1785/0220240141](https://doi.org/10.1785/0220240141).
-
-A. M. Shumway, **K. R. Milner**, M. P. Moschetti, P. M. Powers, J. M. Altekruse, B. T. Aagaard, A. E. Hatem, R. W. Briggs, J. A. T. Jobe, K. B. Withers, A. L. Llenos, A. J. Michael, et al., “2025 U.S. National Seismic Hazard Model for Puerto Rico and the U.S. Virgin Islands: Overview of Model and Hazard Results,” Earthq. Spectra, 2025, Accepted.
 
 </div>
 
